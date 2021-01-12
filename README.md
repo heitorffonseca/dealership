@@ -1,13 +1,18 @@
-# client
-
-## Project setup
+# Project Setup
 ```
 npm install
 ```
 
+# Server NodeJS
+```
+npm run server
+```
+
+# Client VueJS
+
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run client
 ```
 
 ### Compiles and minifies for production
@@ -19,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
